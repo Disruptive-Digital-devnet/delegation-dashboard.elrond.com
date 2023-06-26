@@ -5,10 +5,6 @@
   "author": "MultiversX",
   "license": "GPL-3.0-or-later",
   "repository": "@multiversx/mx-delegation-dapp",
-  "resolutions": {
-    "@ledgerhq/hw-transport-webhid": "6.27.1",
-    "@ledgerhq/hw-transport-webusb": "6.27.1"
-  },
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@multiversx/sdk-core": "^11.5.0",
